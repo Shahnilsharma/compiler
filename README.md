@@ -333,14 +333,6 @@ The compiler has been developed and tested using **GCC 11.4.0** on **Ubuntu 22.0
  **4:** To print total time taken (in CPU clock cycles and ms) for lexical and syntax analysis on console
 
 <a name="credits"></a>
-## 7. Credits
-In alphabetical order,
-- [Aditya Thakur](https://github.com/cry0genic)
-- [Amal Sayeed](https://github.com/amal-sayeed)
-- [Ohiduz Zaman](https://github.com/Ohiduz)
-- [Priyansh Patel](https://github.com/PriyanshPatelBits)
-- [Rachoita Das](https://github.com/Rachoita-Das)
-- [Subhramit Basu](https://github.com/subhramit)
-<a name="license"></a>
 ## 8. License 
 This piece of software is licensed under an [MIT License](https://opensource.org/licenses/MIT).  For more details, refer to the [LICENSE](https://github.com/subhramit/compiler/blob/main/LICENSE) file.
+
